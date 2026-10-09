@@ -57,3 +57,25 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+Tugas Pembuktian:
+1. Query 1: Menghitung total produk
+<img width="1280" height="751" alt="image" src="https://github.com/user-attachments/assets/9092f35e-8a93-45c4-8c81-630f671c5e66" />
+
+2. Query 2: Melihat 1 produk beserta kategori terkait (Eager Loading)
+<img width="1279" height="748" alt="image" src="https://github.com/user-attachments/assets/3ce25a22-beb9-4bc4-ab53-c5558fb60859" />
+
+3. Query 3: Mengecek jumlah pesanan dari user pertama
+<img width="1279" height="750" alt="image" src="https://github.com/user-attachments/assets/1fc4f846-9073-42ea-ab1d-3692ab8ba374" />
+
+4. Query 4: Mencari produk yang memiliki stok
+<img width="1279" height="747" alt="image" src="https://github.com/user-attachments/assets/60174cc4-003e-48e1-944d-ddaa38604506" />
+
+5. Query 5: Mencari produk berdasarkan nama kategorinya
+<img width="1279" height="751" alt="image" src="https://github.com/user-attachments/assets/441f2808-9e5e-4aac-9fef-005bbf0bc255" />
+
+6. Bukti Kode Logika Multi-Role
+<img width="1279" height="751" alt="image" src="https://github.com/user-attachments/assets/79e28548-7f1f-4748-b2e7-41a18713d940" />
+
+7. Pembuktian 403 (user tidak dapat mengakses admin)
+<img width="1279" height="703" alt="image" src="https://github.com/user-attachments/assets/21e1a225-13e0-47c9-b690-c13fe312d653" />
