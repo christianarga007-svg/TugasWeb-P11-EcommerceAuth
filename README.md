@@ -79,3 +79,6 @@ Tugas Pembuktian:
 
 7. Pembuktian 403 (user tidak dapat mengakses admin)
 <img width="1279" height="703" alt="image" src="https://github.com/user-attachments/assets/21e1a225-13e0-47c9-b690-c13fe312d653" />
+
+<img width="1279" height="679" alt="image" src="https://github.com/user-attachments/assets/886f7fb6-e2da-47e0-8ac0-7c39b794986f" />
+<img width="1279" height="698" alt="image" src="https://github.com/user-attachments/assets/c0f62b31-2a0a-466f-acd6-2af483ceaa01" />
